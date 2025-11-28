@@ -103,7 +103,4 @@ thinning<- coin_flip <= prob_i
 
 after_thinning<- arrival_rates[thinning,]
 
-#WILL THIS CHANGE APPEAR???
-#PLEASE WORK
-
 
